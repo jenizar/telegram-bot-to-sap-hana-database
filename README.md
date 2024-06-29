@@ -3,11 +3,11 @@ Input data from Telegram BOT to SAP Hana Database Cloud using Python | SAP CAP i
 
 $>pip install hdbcli requests datetime urllib
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/telegram-bot-to-sap-hana-database/blob/main/screenshot/pic1.png)  
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/telegram-bot-to-sap-hana-database/blob/main/screenshot/pic2.png) 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/telegram-bot-to-sap-hana-database/blob/main/screenshot/pic3.png) 
 
 References:
 
