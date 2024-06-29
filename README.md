@@ -17,4 +17,4 @@ References:
 
 3. https://core.telegram.org/bots/api
 
-4. https://pypi.org/project/hdbcli/)
+4. https://pypi.org/project/hdbcli/
